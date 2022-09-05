@@ -1,4 +1,4 @@
-# RestfulAPI(trong main)
+# RestfulAPI(trong master)
 Công nghệ sử dụng:
   + Front end: HTML, CSS, Bootstrap 4, Javascript(Jquery),Thymeleaf
   + Back end: Java(Spring boot, Spring data JPA)
